@@ -74,6 +74,110 @@
             "from": "Brasil",
             "description": "Camaleao existe para ajudar você / sua empresa a se conectar com a comunidade LGBT+ e assim levar mais diversidade para a sua empresa. Nosso grande pilar de trabalho é sempre empoderar a comunidade LGBT+ para que ela não só tenha as melhores performances em processos seletivos como também seja um / uma profissional mais bem preparado / preparada / preparede para atuar nos desafios da sua profissão.",
             "link": "camaleao.co"
+        },
+        {
+            "id": 10,
+            "type": "Trabalho",
+            "name": "TransEmpregos",
+            "from": "Brasil",
+            "description": "O maior portal de vagas e currículos para pessoas Trans do Brasil. Contato: transempregosbrasil@gmail.com",
+            "link": "https://www.transempregos.org/"
+        },
+        {
+            "id": 11,
+            "type": "Trabalho Tecnologia",
+            "name": "Carambola",
+            "from": "São Paulo / SP",
+            "description": "A Carambola é uma empresa que tem a missão de através da diversidade e tecnologia transformar as pessoas e os negócios. Fazemos inclusão, treinamos e formamos profissionais para o mercado de Tecnologia. Contato: contato@carambola.com.vc",
+            "link": "https://www.carambola.com.vc/"
+        },
+        {
+            "id": 12,
+            "type": "Acolhimento",
+            "name": "ADEH",
+            "from": "Florianópolis / SC",
+            "description": "A ADEH - Associação em Defesa dos Direitos com enfoque em gênero e sexualidade, atua em Florianópolis a mais de 25 anos. É uma ONG de combate às opressões e violências, que oferece serviços de acolhimento, assessoria jurídica e acompanhamento psicológico. Além disso, seu espaço é aberto a todos que querem conhecer a instituição, com atividades de Arte e Cultura. Contato: atendimento.adeh@gmail.com",
+            "link": "https://www.facebook.com/ADEHONLINE/ "
+        }, 
+        {
+            "id": 13,
+            "type": "Acolhimento",
+            "name": "Casa Nem",
+            "from": "Rio de Janeiro / RJ",
+            "description": "A Casa Nem é um espaço de acolhimento para pessoas LGBTIs em situação de vulnerabilidade social,com foco em transexuais e transgeneres. É um espaço autosustentável e festas são realizadas para ajudar nessa autosustentabilidade do local,que também recebe diversos tipos de doações. Na Casa Nem opressões são proibides e o espaço abriga diversos projetos que se inclui o PreparaNem, CosturaNem, FotografaNem, YogaNem, Libras, voltado para as travestis, trans e a todes que se considerem Nem. Contato: casanem2016@gmail.com",
+            "link": "https://www.facebook.com/casanemcasaviva/"
+        },
+        {
+            "id": 14,
+            "type": "Acolhimento Cultura",
+            "name": "Casa 1",
+            "from": "São Paulo / SP",
+            "description": "República de acolhida para pessoas LGBT expulsas de casa por suas orientações afetivas sexuais e identidades de gênero. Possui um centro cultural, o Galpão Casa 1 que conta com atividades culturais e educativas, que tem como foco promover a diversidade cultural, e também a Clínica Social Casa 1, que conta com atendimentos psicoterápicos, atendimentos médicos pontuais e terapias complementares, sempre com uma perspectivas humanizadas e com foco na promoção de saúde mental, em especial da comunidade LGBT. Contato:  Rua Adoniran Barbosa 151, Bela Vista – Todos os dias, de 10h às 22h.",
+            "link": "http://www.casaum.org/"
+        },
+        {
+            "id": 15,
+            "type": "Educação Tecnologia",
+            "name": "Educa TransForma",
+            "from": "Porto Alegre / RS",
+            "description": "O EDUCATRANSFORMA surge como proposta de capacitação gratuíta e inserção de Pessoas Transgênero (transexuais, travestis, não binários e intersexo) no mercado de trabalho de TI buscando ser uma ponte entre indivíduos/pessoas e a admissão trabalhista, ou seja, formando e capacitando essas pessoas para que passem a atuar na área de imediato. ",
+            "link": "http://www.educatransforma.com.br/"
+        },
+        {
+            "id": 16,
+            "type": "Acolhimento",
+            "name": "Casa Aurora",
+            "from": "São Paulo / SP",
+            "description": "A Casa Aurora é uma Iniciativa da Associação de Diversidade e Inclusão da Bahia, Coletivo Ação, que visa a potencialização da cultura, a instrumentalização e o acolhimento da população LGBTQI+. Contato: casadeacolhimentoaurora@gmail.com",
+            "link": ["https://evoe.cc/casaaurora", "https://www.facebook.com/auroracasalgbt/"]
+        },
+        {
+            "id": 17,
+            "type": "Acolhimento",
+            "name": "Casa Miga",
+            "from": "Manaus / AM",
+            "description": "Coordenada pela ONG Manifesta LGBT+, com o apoio da ACNUR (Agência da ONU para Refugiados) e parceiros, somos uma casa de acolhimento LGBT+ em Manaus/AM.",
+            "link": "https://www.facebook.com/casamigaLGBT/"
+        },
+        {
+            "id": 18,
+            "type": "Acolhimento",
+            "name": "Casa Florescer",
+            "from": "São Paulo / SP",
+            "description": "ONG que acolhe 30 Travestis e mulheres Transexuais, atendimento social, psicologico (saúde, educação, vínculos familiares, reinserção mercado de trabalho). Contato: cadiversidade@gmail.com",
+            "link": "https://www.facebook.com/casaflorescer/"
+        },
+        {
+            "id": 19,
+            "type": "Acolhimento",
+            "name": "Centro de Referência da Diversidade - CRD",
+            "from": "São Paulo / SP",
+            "description": "É um espaço de desenvolvimento social que visa oferecer acolhida, escuta especializada e atendimento, prioritário, a travestis e transexuais, profissionais do sexo, pessoas vivendo com HIV, gays e lésbicas que estejam em situação de vulnerabilidade e risco social. Nosso objetivo geral é desenvolver ações que possibilitem a inclusão social e a geração de renda, buscando assim o empoderamento, a autonomia e a cidadania da população assistida. Contato: crd@crd.org.br",
+            "link": "https://www.facebook.com/CentrodereferenciadefesadadiversidadeCRD/"
+        },
+        {
+            "id": 20,
+            "type": "Acolhimento",
+            "name": "Instituto TransViver",
+            "from": "Recife / PE",
+            "description": "O propósito do Instituto é dar equilíbrio , estrutura e formação para pessoas lgbts com um olhar especial para pessoas Trans, dentro de um processo de inserção na sociedade através do convívio familiar e social. Contato: transviver@outlook.com",
+            "link": "https://www.facebook.com/transviver/"
+        },
+        {
+            "id": 21,
+            "type": "Acolhimento Cultura",
+            "name": "Casa Chama",
+            "from": "São Paulo / SP",
+            "description": "A Casa Chama é uma organização civil e cultural, que surgiu da necessidade de criar mais espaços de pesquisa, discussão e ação para corpAs transvestigêneres.A Casa Chama é um ambiente de convívio seguro que produz desde eventos culturais e grupos de estudo até projetos de cuidado e apoio jurídico. Contato: casachama440@gmail.com",
+            "link": "http://www.casachama.org/"
+        },
+        {
+            "id": 22,
+            "type": "Acolhimento",
+            "name": "Casa Transformar",
+            "from": "Fortaleza / CE",
+            "description": "a CASA TRANSFORMAR uma casa de acolhimento pra pessoas LGBT em situação de vulnerabilidade social / exclusão familiar, situada em Fortaleza-Ce. Contato: casatransformar2020@gmail.com",
+            "link": "https://www.instagram.com/casatransformar/"
         }
     ]
 }
