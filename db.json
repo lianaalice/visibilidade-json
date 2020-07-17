@@ -1,192 +1,182 @@
 {
-    "projects": {
-        "work": [
-            {
-                "id": 8,
-                "type": "Trabalho",
-                "name": "Sapa Roxa - Indique Uma Sapa",
-                "from": "Rio de Janeiro / RJ",
-                "description": "O mercado de trabalho é, no geral, muito cruel com mulheres. Acrescente a isso a discriminação por conta de sua orientação sexual e chegaremos ao que vemos hoje: muitas mulheres lésbicas desempregadas ou em trabalhos informais, sem nenhuma garantia trabalhista. Coletiva Sapa Roxa criou o projeto Indique Uma Sapa. Ele tem como objetivo o fortalecimento da rede de lésbicas e troca de contatos profissionais, fortalecendo a nossa presença no mercado de trabalho. contato: saparoxa@gmail.com ",
-                "link": "https://saparoxa.wordpress.com/"
-            },
-            {
-                "id": 9,
-                "type": "Trabalho",
-                "name": "Camaleao",
-                "from": "Brasil",
-                "description": "Camaleao existe para ajudar você / sua empresa a se conectar com a comunidade LGBT+ e assim levar mais diversidade para a sua empresa. Nosso grande pilar de trabalho é sempre empoderar a comunidade LGBT+ para que ela não só tenha as melhores performances em processos seletivos como também seja um / uma profissional mais bem preparado / preparada / preparede para atuar nos desafios da sua profissão.",
-                "link": "camaleao.co"
-            },
-            {
-                "id": 10,
-                "type": "Trabalho",
-                "name": "TransEmpregos",
-                "from": "Brasil",
-                "description": "O maior portal de vagas e currículos para pessoas Trans do Brasil. Contato: transempregosbrasil@gmail.com",
-                "link": "https://www.transempregos.org/"
-            },
-            {
-                "id": 11,
-                "type": "Trabalho Tecnologia",
-                "name": "Carambola",
-                "from": "São Paulo / SP",
-                "description": "A Carambola é uma empresa que tem a missão de através da diversidade e tecnologia transformar as pessoas e os negócios. Fazemos inclusão, treinamos e formamos profissionais para o mercado de Tecnologia. Contato: contato@carambola.com.vc",
-                "link": "https://www.carambola.com.vc/"
-            }
-        ],
-        "study": [
-            {
-                "id": 1,
-                "type": "Educação Enem",
-                "name": "Transenem",
-                "from": "Porto Alegre / RS",
-                "description": "O TransENEM POA é um coletivo de educação popular, feito por voluntárias/os/es. Surgiu tomou forma no inicío de 2016, e tem como objetivo ajudar pessoas Trans, gratuitamente, a se prepararem para provas do ENEM e vestibulares, ou ainda a concluir o Ensino Fundamental e Médio. Contato: transenempoa@gmail.com",
-                "link": "https://m.facebook.com/transenempoa/"
-            },
-            {
-                "id": 2,
-                "type": "Educação Enem",
-                "name": "Transenem",
-                "from": "Belo Horizonte / MG",
-                "description": "O O TransenemBH é um Cursinho que vem desde 2015 preparando a população trans/travesti para o Enem e o Encceja, visando combater sua exclusão social e educacional através de ingresso na Universidade e qualificação para o mercado de trabalho. Temos aulas gratuitas no turno da noite, no CRJ Centro de Referência da Juventude, Rua Guaicurus 50, Praça da Estação, BH. Através de doações podemos oferecer passagens para o deslocamento dos alunes. contato: cursinhotrans@gmail.com",
-                "link": "https://www.facebook.com/transenembh/"
-            },
-            {
-                "id": 3,
-                "type": "Educação Enem",
-                "name": "PreparaNem",
-                "from": "Rio de Janeiro e Niterói / RJ",
-                "description": "O PreparaNem começou como um projeto de pré-vestibular auto-organizado e auto-gestionado, mas se desenvolveu em uma rede de pessoas T, para além do vestibular, que conta com apoio de voluntários. Sua base é feita por e para travestis, transgêneros, transexuais e LGBTIA em situação de vulnerabilidade social e preconceito de gênero. Contato: preparanem@gmail.com",
-                "link": "https://www.facebook.com/PreparaNem/"
-            },
-            {
-                "id": 4,
-                "type": "Educação Acolhimento",
-                "name": "Transvest",
-                "from": "Belo Horizonte / MG",
-                "description": "Tranvest é um projeto artístico-pedagógico que objetiva combater a transfobia e incluir travestis, transexuais e transgêneros na sociedade. Contato: contato@transvest.org",
-                "link": [
-                    "https://evoe.cc/transvest",
-                    "https://www.facebook.com/transvest/"
-                ]
-            },
-            {
-                "id": 6,
-                "type": "Educação",
-                "name": "Transviado o Enem",
-                "from": "Salvador / BA",
-                "description": "Transviando o Enem é uma comunidade de aprendizagem construída por e para transgêneros, transexuais, travestis e intersexes residentes na cidade do Salvador, que tenham interesse em participar do Exame Nacional do Ensino Médio e/ou demais vestibulares. contato: transviandooenem@gmail.com ",
-                "link": "https://www.facebook.com/transviandooenem/"
-            },
-            {
-                "id": 7,
-                "type": "Educação Cultura",
-                "name": "Instituto LGBT+",
-                "from": "Brasília / DF",
-                "description": "O Instituto Cultura, Arte e Memória LGBT+ (Instituto LGBT+) é uma associação fundada no dia 03 de dezembro de 2016 em Brasília, no dia em que se completaram 29 anos do falecimento do artista plástico Darcy Penteado. O Instituto foi criado com o objetivo de defender, promover, fomentar e difundir a cultura, o patrimônio cultural e artístico e a memória da comunidade LGBT+ brasileira. contato: contato@instituto.lgbt ",
-                "link": "http://instituto.lgbt"
-            },
-            {
-                "id": 15,
-                "type": "Educação Tecnologia",
-                "name": "Educa TransForma",
-                "from": "Porto Alegre / RS",
-                "description": "O EDUCATRANSFORMA surge como proposta de capacitação gratuíta e inserção de Pessoas Transgênero (transexuais, travestis, não binários e intersexo) no mercado de trabalho de TI buscando ser uma ponte entre indivíduos/pessoas e a admissão trabalhista, ou seja, formando e capacitando essas pessoas para que passem a atuar na área de imediato. ",
-                "link": "http://www.educatransforma.com.br/"
-            }
-        ],
-        "help": [
-            {
-                "id": 5,
-                "type": "Acolhimento",
-                "name": "Casa Amor",
-                "from": "Aracaju / SE",
-                "description": "CasaAmor é um projeto sem fins lucrativos que busca abrigar e amparar pessoas LGBTQ+ sem lar e em situação de vulnerabilidade. contato: (79)99823-6449",
-                "link": "http://casamor.com.br/"
-            },
-            {
-                "id": 12,
-                "type": "Acolhimento",
-                "name": "ADEH",
-                "from": "Florianópolis / SC",
-                "description": "A ADEH - Associação em Defesa dos Direitos com enfoque em gênero e sexualidade, atua em Florianópolis a mais de 25 anos. É uma ONG de combate às opressões e violências, que oferece serviços de acolhimento, assessoria jurídica e acompanhamento psicológico. Além disso, seu espaço é aberto a todos que querem conhecer a instituição, com atividades de Arte e Cultura. Contato: atendimento.adeh@gmail.com",
-                "link": "https://www.facebook.com/ADEHONLINE/ "
-            },
-            {
-                "id": 13,
-                "type": "Acolhimento",
-                "name": "Casa Nem",
-                "from": "Rio de Janeiro / RJ",
-                "description": "A Casa Nem é um espaço de acolhimento para pessoas LGBTIs em situação de vulnerabilidade social,com foco em transexuais e transgeneres. É um espaço autosustentável e festas são realizadas para ajudar nessa autosustentabilidade do local,que também recebe diversos tipos de doações. Na Casa Nem opressões são proibides e o espaço abriga diversos projetos que se inclui o PreparaNem, CosturaNem, FotografaNem, YogaNem, Libras, voltado para as travestis, trans e a todes que se considerem Nem. Contato: casanem2016@gmail.com",
-                "link": "https://www.facebook.com/casanemcasaviva/"
-            },
-            {
-                "id": 14,
-                "type": "Acolhimento Cultura",
-                "name": "Casa 1",
-                "from": "São Paulo / SP",
-                "description": "República de acolhida para pessoas LGBT expulsas de casa por suas orientações afetivas sexuais e identidades de gênero. Possui um centro cultural, o Galpão Casa 1 que conta com atividades culturais e educativas, que tem como foco promover a diversidade cultural, e também a Clínica Social Casa 1, que conta com atendimentos psicoterápicos, atendimentos médicos pontuais e terapias complementares, sempre com uma perspectivas humanizadas e com foco na promoção de saúde mental, em especial da comunidade LGBT. Contato:  Rua Adoniran Barbosa 151, Bela Vista – Todos os dias, de 10h às 22h.",
-                "link": "http://www.casaum.org/"
-            },
-            {
-                "id": 16,
-                "type": "Acolhimento",
-                "name": "Casa Aurora",
-                "from": "São Paulo / SP",
-                "description": "A Casa Aurora é uma Iniciativa da Associação de Diversidade e Inclusão da Bahia, Coletivo Ação, que visa a potencialização da cultura, a instrumentalização e o acolhimento da população LGBTQI+. Contato: casadeacolhimentoaurora@gmail.com",
-                "link": [
-                    "https://evoe.cc/casaaurora",
-                    "https://www.facebook.com/auroracasalgbt/"
-                ]
-            },
-            {
-                "id": 17,
-                "type": "Acolhimento",
-                "name": "Casa Miga",
-                "from": "Manaus / AM",
-                "description": "Coordenada pela ONG Manifesta LGBT+, com o apoio da ACNUR (Agência da ONU para Refugiados) e parceiros, somos uma casa de acolhimento LGBT+ em Manaus/AM.",
-                "link": "https://www.facebook.com/casamigaLGBT/"
-            },
-            {
-                "id": 18,
-                "type": "Acolhimento",
-                "name": "Casa Florescer",
-                "from": "São Paulo / SP",
-                "description": "ONG que acolhe 30 Travestis e mulheres Transexuais, atendimento social, psicologico (saúde, educação, vínculos familiares, reinserção mercado de trabalho). Contato: cadiversidade@gmail.com",
-                "link": "https://www.facebook.com/casaflorescer/"
-            },
-            {
-                "id": 19,
-                "type": "Acolhimento",
-                "name": "Centro de Referência da Diversidade - CRD",
-                "from": "São Paulo / SP",
-                "description": "É um espaço de desenvolvimento social que visa oferecer acolhida, escuta especializada e atendimento, prioritário, a travestis e transexuais, profissionais do sexo, pessoas vivendo com HIV, gays e lésbicas que estejam em situação de vulnerabilidade e risco social. Nosso objetivo geral é desenvolver ações que possibilitem a inclusão social e a geração de renda, buscando assim o empoderamento, a autonomia e a cidadania da população assistida. Contato: crd@crd.org.br",
-                "link": "https://www.facebook.com/CentrodereferenciadefesadadiversidadeCRD/"
-            },
-            {
-                "id": 20,
-                "type": "Acolhimento",
-                "name": "Instituto TransViver",
-                "from": "Recife / PE",
-                "description": "O propósito do Instituto é dar equilíbrio , estrutura e formação para pessoas lgbts com um olhar especial para pessoas Trans, dentro de um processo de inserção na sociedade através do convívio familiar e social. Contato: transviver@outlook.com",
-                "link": "https://www.facebook.com/transviver/"
-            },
-            {
-                "id": 21,
-                "type": "Acolhimento Cultura",
-                "name": "Casa Chama",
-                "from": "São Paulo / SP",
-                "description": "A Casa Chama é uma organização civil e cultural, que surgiu da necessidade de criar mais espaços de pesquisa, discussão e ação para corpAs transvestigêneres.A Casa Chama é um ambiente de convívio seguro que produz desde eventos culturais e grupos de estudo até projetos de cuidado e apoio jurídico. Contato: casachama440@gmail.com",
-                "link": "http://www.casachama.org/"
-            },
-            {
-                "id": 22,
-                "type": "Acolhimento",
-                "name": "Casa Transformar",
-                "from": "Fortaleza / CE",
-                "description": "a CASA TRANSFORMAR uma casa de acolhimento pra pessoas LGBT em situação de vulnerabilidade social / exclusão familiar, situada em Fortaleza-Ce. Contato: casatransformar2020@gmail.com",
-                "link": "https://www.instagram.com/casatransformar/"
-            }
-        ]
-    }
-}
+    "projects": [
+        {
+            "id": 1,
+            "type": "Educação Enem",
+            "name": "Transenem",
+            "from": "Porto Alegre / RS",
+            "description": "Feito por voluntárias/os/es. Tem como objetivo ajudar pessoas Trans, gratuitamente, a se prepararem para provas do ENEM e vestibulares, ou ainda a concluir o Ensino Fundamental e Médio. Contato: transenempoa@gmail.com",
+            "link": "https://m.facebook.com/transenempoa/"
+        },
+        {
+            "id": 2,
+            "type": "Educação Enem",
+            "name": "Transenem",
+            "from": "Belo Horizonte / MG",
+            "description": "Um Cursinho que prepara a população trans/travesti para o Enem e o Encceja,  Temos aulas gratuitas no turno da noite, no CRJ Centro de Referência da Juventude. contato: cursinhotrans@gmail.com",
+            "link": "https://www.facebook.com/transenembh/"
+        },
+        {
+            "id": 3,
+            "type": "Educação Enem",
+            "name": "PreparaNem",
+            "from": "Rio de Janeiro e Niterói / RJ",
+            "description": "Um projeto de pré-vestibular auto-organizado e auto-gestionado. Se desenvolveu em uma rede de pessoas T que conta com apoio de voluntários. Contato: preparanem@gmail.com",
+            "link": "https://www.facebook.com/PreparaNem/"
+        },
+        {
+            "id": 4,
+            "type": "Educação Acolhimento",
+            "name": "Transvest",
+            "from": "Belo Horizonte / MG",
+            "description": "Tranvest é um projeto artístico-pedagógico que objetiva combater a transfobia e incluir travestis, transexuais e transgêneros na sociedade. Contato: contato@transvest.org",
+            "link": [
+            "https://evoe.cc/transvest","https://www.facebook.com/transvest/"
+            ]
+        },
+        {
+            "id": 5,
+            "type": "Acolhimento",
+            "name": "Casa Amor",
+            "from": "Aracaju / SE",
+            "description": "CasaAmor é um projeto sem fins lucrativos que busca abrigar e amparar pessoas LGBTQ+ sem lar e em situação de vulnerabilidade. contato: (79)99823-6449",
+            "link": "http://casamor.com.br/"
+        },
+        {
+            "id": 6,
+            "type": "Educação",
+            "name": "Transviado o Enem",
+            "from": "Salvador / BA",
+            "description": "Uma comunidade de aprendizagem construída por e para transgêneros que tenham interesse em participar do ENEM e/ou demais vestibulares. contato: transviandooenem@gmail.com ",
+            "link": "https://www.facebook.com/transviandooenem/"
+        },
+        {
+            "id": 7,
+            "type": "Educação Cultura",
+            "name": "Instituto LGBT+",
+            "from": "Brasília / DF",
+            "description": "O Instituto Cultura, Arte e Memória LGBT+ tem como objetivo de defender, promover, fomentar e difundir a cultura e a memória da comunidade LGBT+ brasileira. contato: contato@instituto.lgbt ",
+            "link": "http://instituto.lgbt"
+        },
+        {
+            "id": 8,
+            "type": "Trabalho",
+            "name": "Sapa Roxa - Indique Uma Sapa",
+            "from": "Rio de Janeiro / RJ",
+            "description": "Tem como objetivo o fortalecimento da rede de lésbicas e troca de contatos profissionais, fortalecendo a nossa presença no mercado de trabalho. contato: saparoxa@gmail.com ",
+            "link": "https://saparoxa.wordpress.com/"
+        },
+        { 
+            "id": 9,
+            "type": "Trabalho",
+            "name": "Camaleao",
+            "from": "Brasil",
+            "description": "Nosso grande pilar de trabalho é sempre empoderar a comunidade LGBT+ .Existimos para ajudar empresas a se conectar com a comunidade LGBT+ e assim levar mais diversidade para a sua empresa e pessoas LGBT+ com empresas que prezem a diversidade.",
+            "link": "camaleao.co"
+        },
+        {
+            "id": 10,
+            "type": "Trabalho",
+            "name": "TransEmpregos",
+            "from": "Brasil",
+            "description": "O maior portal de vagas e currículos para pessoas Trans do Brasil. Contato: transempregosbrasil@gmail.com",
+            "link": "https://www.transempregos.org/"
+        },
+        {
+            "id": 11,
+            "type": "Educação Tecnologia",
+            "name": "Carambola",
+            "from": "São Paulo / SP",
+            "description": "Tem a missão de através da diversidade e tecnologia transformar as pessoas e os negócios. Fazemos inclusão, treinamos e formamos profissionais para o mercado de Tecnologia. Contato: contato@carambola.com.vc",
+            "link": "https://www.carambola.com.vc/"
+        },
+        {
+            "id": 12,
+            "type": "Acolhimento",
+            "name": "ADEH",
+            "from": "Florianópolis / SC",
+            "description": "A Associação em Defesa dos Direitos com enfoque em gênero e sexualidade oferece serviços de acolhimento, assessoria jurídica e acompanhamento psicológico. Contato: atendimento.adeh@gmail.com",
+            "link": "https://www.facebook.com/ADEHONLINE/ "
+        }, 
+        {
+            "id": 13,
+            "type": "Acolhimento Cultura",
+            "name": "Casa Nem",
+            "from": "Rio de Janeiro / RJ",
+            "description": "A Casa Nem é um espaço de acolhimento, convivência e cultura para pessoas LGBTIs em situação de vulnerabilidade social, com foco em transexuais e transgeneres. Contato: casanem2016@gmail.com",
+            "link": "https://www.facebook.com/casanemcasaviva/"
+        },
+        {
+            "id": 14,
+            "type": "Acolhimento Cultura",
+            "name": "Casa 1",
+            "from": "São Paulo / SP",
+            "description": "República de acolhida para pessoas LGBT expulsas de casa por suas orientações afetivas sexuais e identidades de gênero. Possui também um Centro Cultural e uma Clínica Social.",
+            "link": "http://www.casaum.org/"
+        },
+        {
+            "id": 15,
+            "type": "Educação Tecnologia",
+            "name": "Educa TransForma",
+            "from": "Porto Alegre / RS",
+            "description": "Proposta de capacitação gratuíta e inserção de Pessoas Transgênero no mercado de trabalho de TI buscando ser uma ponte entre indivíduos/pessoas e a admissão trabalhista.",
+            "link": "http://www.educatransforma.com.br/"
+        },
+        {
+            "id": 16,
+            "type": "Acolhimento",
+            "name": "Casa Aurora",
+            "from": "Salvador / BA",
+            "description": "Iniciativa que visa a potencialização da cultura, a instrumentalização e o acolhimento da população LGBTQI+. Contato: casadeacolhimentoaurora@gmail.com",
+            "link": ["https://evoe.cc/casaaurora", "https://www.facebook.com/auroracasalgbt/"]
+        },
+        {
+            "id": 17,
+            "type": "Acolhimento",
+            "name": "Casa Miga",
+            "from": "Manaus / AM",
+            "description": "Coordenada pela ONG Manifesta LGBT+, com o apoio da ACNUR (Agência da ONU para Refugiados) e parceiros, somos uma casa de acolhimento LGBT+ em Manaus/AM.",
+            "link": "https://www.facebook.com/casamigaLGBT/"
+        },
+        {
+            "id": 18,
+            "type": "Acolhimento",
+            "name": "Casa Florescer",
+            "from": "São Paulo / SP",
+            "description": "ONG que acolhe Travestis e mulheres Transexuais, com atendimento social, psicologico (saúde, educação, vínculos familiares, reinserção mercado de trabalho). Contato: cadiversidade@gmail.com",
+            "link": "https://www.facebook.com/casaflorescer/"
+        },
+        {
+            "id": 19,
+            "type": "Acolhimento",
+            "name": "Centro de Referência da Diversidade - CRD",
+            "from": "São Paulo / SP",
+            "description": "Desenvolver ações que possibilitem a inclusão social, saúde e a geração de renda, buscando assim o empoderamento, a autonomia e a cidadania da população assistida. Contato: crd@crd.org.br",
+            "link": "https://www.facebook.com/CentrodereferenciadefesadadiversidadeCRD/"
+        },
+        {
+            "id": 20,
+            "type": "Acolhimento",
+            "name": "Instituto TransViver",
+            "from": "Recife / PE",
+            "description": "Dar estrutura e formação para pessoas lgbts com um olhar especial para pessoas Trans, dentro de um processo de inserção na sociedade através do convívio familiar e social. Contato: transviver@outlook.com",
+            "link": "https://www.facebook.com/transviver/"
+        },
+        {
+            "id": 21,
+            "type": "Acolhimento Cultura",
+            "name": "Casa Chama",
+            "from": "São Paulo / SP",
+            "description": "A Casa Chama é um ambiente de convívio seguro que produz desde eventos culturais e grupos de estudo até projetos de cuidado e apoio jurídico. Contato: casachama440@gmail.com",
+            "link": "http://www.casachama.org/"
+        },
+        {
+            "id": 22,
+            "type": "Acolhimento",
+            "name": "Casa Transformar",
+            "from": "Fortaleza / CE",
+            "description": "Uma casa de acolhimento pra pessoas LGBT em situação de vulnerabilidade social / exclusão familiar. Contato: casatransformar2020@gmail.com",
+            "link": "https://www.instagram.com/casatransformar/"
+        }	 
+    ]
+} 	
