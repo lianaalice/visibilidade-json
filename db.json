@@ -1,0 +1,79 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "type": "Educação Enem",
+            "name": "Transenem",
+            "from": "Porto Alegre / RS",
+            "description": "O TransENEM POA é um coletivo de educação popular, feito por voluntárias/os/es. Surgiu tomou forma no inicío de 2016, e tem como objetivo ajudar pessoas Trans, gratuitamente, a se prepararem para provas do ENEM e vestibulares, ou ainda a concluir o Ensino Fundamental e Médio. Contato: transenempoa@gmail.com",
+            "link": "https://m.facebook.com/transenempoa/"
+        },
+        {
+            "id": 2,
+            "type": "Educação Enem",
+            "name": "Transenem",
+            "from": "Belo Horizonte / MG",
+            "description": "O O TransenemBH é um Cursinho que vem desde 2015 preparando a população trans/travesti para o Enem e o Encceja, visando combater sua exclusão social e educacional através de ingresso na Universidade e qualificação para o mercado de trabalho. Temos aulas gratuitas no turno da noite, no CRJ Centro de Referência da Juventude, Rua Guaicurus 50, Praça da Estação, BH. Através de doações podemos oferecer passagens para o deslocamento dos alunes. contato: cursinhotrans@gmail.com",
+            "link": "https://www.facebook.com/transenembh/"
+        },
+        {
+            "id": 3,
+            "type": "Educação Enem",
+            "name": "PreparaNem",
+            "from": "Rio de Janeiro e Niterói / RJ",
+            "description": "O PreparaNem começou como um projeto de pré-vestibular auto-organizado e auto-gestionado, mas se desenvolveu em uma rede de pessoas T, para além do vestibular, que conta com apoio de voluntários. Sua base é feita por e para travestis, transgêneros, transexuais e LGBTIA em situação de vulnerabilidade social e preconceito de gênero. Contato: preparanem@gmail.com",
+            "link": "https://www.facebook.com/PreparaNem/"
+        },
+        {
+            "id": 4,
+            "type": "Educação Acolhimento",
+            "name": "Transvest",
+            "from": "Belo Horizonte / MG",
+            "description": "Tranvest é um projeto artístico-pedagógico que objetiva combater a transfobia e incluir travestis, transexuais e transgêneros na sociedade. Contato: contato@transvest.org",
+            "link": [
+                "https://evoe.cc/transvest",
+                "https://www.facebook.com/transvest/"
+            ]
+        },
+        {
+            "id": 5,
+            "type": "Acolhimento",
+            "name": "Casa Amor",
+            "from": "Aracaju / SE",
+            "description": "CasaAmor é um projeto sem fins lucrativos que busca abrigar e amparar pessoas LGBTQ+ sem lar e em situação de vulnerabilidade. contato: (79)99823-6449",
+            "link": "http://casamor.com.br/"
+        },
+        {
+            "id": 6,
+            "type": "Educação",
+            "name": "Transviado o Enem",
+            "from": "Salvador / BA",
+            "description": "Transviando o Enem é uma comunidade de aprendizagem construída por e para transgêneros, transexuais, travestis e intersexes residentes na cidade do Salvador, que tenham interesse em participar do Exame Nacional do Ensino Médio e/ou demais vestibulares. contato: transviandooenem@gmail.com ",
+            "link": "https://www.facebook.com/transviandooenem/"
+        },
+        {
+            "id": 7,
+            "type": "Educação Cultura",
+            "name": "Instituto LGBT+",
+            "from": "Brasília / DF",
+            "description": "O Instituto Cultura, Arte e Memória LGBT+ (Instituto LGBT+) é uma associação fundada no dia 03 de dezembro de 2016 em Brasília, no dia em que se completaram 29 anos do falecimento do artista plástico Darcy Penteado. O Instituto foi criado com o objetivo de defender, promover, fomentar e difundir a cultura, o patrimônio cultural e artístico e a memória da comunidade LGBT+ brasileira. contato: contato@instituto.lgbt ",
+            "link": "http://instituto.lgbt"
+        },
+        {
+            "id": 8,
+            "type": "Trabalho",
+            "name": "Sapa Roxa - Indique Uma Sapa",
+            "from": "Rio de Janeiro / RJ",
+            "description": "O mercado de trabalho é, no geral, muito cruel com mulheres. Acrescente a isso a discriminação por conta de sua orientação sexual e chegaremos ao que vemos hoje: muitas mulheres lésbicas desempregadas ou em trabalhos informais, sem nenhuma garantia trabalhista. Coletiva Sapa Roxa criou o projeto Indique Uma Sapa. Ele tem como objetivo o fortalecimento da rede de lésbicas e troca de contatos profissionais, fortalecendo a nossa presença no mercado de trabalho. contato: saparoxa@gmail.com ",
+            "link": "https://saparoxa.wordpress.com/"
+        },
+        {
+            "id": 9,
+            "type": "Trabalho",
+            "name": "Camaleao",
+            "from": "Brasil",
+            "description": "Camaleao existe para ajudar você / sua empresa a se conectar com a comunidade LGBT+ e assim levar mais diversidade para a sua empresa. Nosso grande pilar de trabalho é sempre empoderar a comunidade LGBT+ para que ela não só tenha as melhores performances em processos seletivos como também seja um / uma profissional mais bem preparado / preparada / preparede para atuar nos desafios da sua profissão.",
+            "link": "camaleao.co"
+        }
+    ]
+}
